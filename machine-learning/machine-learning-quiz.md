@@ -532,6 +532,8 @@ Note: This one is similar to an example talked about in the Stanford Machine Lea
 | **4.** | Validation error | Training error | Optimal error |
 
 - [ ] 1
-- [ ] 2
+- [x] 2
 - [ ] 3
-- [x] 4
+- [ ] 4
+
+See Link: https://www.intermediait.com/blog/2020/01/12/evaluating-model-performance-generalization-bias-variance-tradeoff-and-overfitting-vs-underfitting-part-2/
